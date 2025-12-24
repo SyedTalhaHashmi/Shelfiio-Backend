@@ -24,7 +24,7 @@ A comprehensive Spring Boot REST API for managing your personal book library wit
 
 ## ✨ Features
 
-### 📖 Book Management
+### 📖 Book Management System
 - **Add books by ISBN** - Automatically fetch book details from external APIs
 - **Manual book entry** - Add books without ISBN (personal notes, manuscripts)
 - **Reading status tracking** - Not Started, Reading, Finished
